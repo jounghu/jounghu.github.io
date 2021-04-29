@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: "12.x"
     - run: npm install
-    - run: cd themes/icruas
+    - run: cd themes/icarus
     - run: npm install
     - run: cd ../../
     - name: Setup Hexo env
