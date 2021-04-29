@@ -3,6 +3,13 @@ title: Java Basics
 date: 2015-03-22
 tags: Java
 ---
+The buffer pools corresponding to the basic types are as follows:
+
+-boolean values ​​true and false -all byte values -short values ​​between -128 and 127 -int values ​​between -128 and 127 -char in the range \u0000 to \u007F
+
+When using the packaging types corresponding to these basic types, you can directly use the objects in the buffer pool.
+
+
 <!-- more -->
 
 
